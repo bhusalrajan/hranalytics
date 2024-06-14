@@ -10,4 +10,5 @@ To Create a through Attrition Report that provides important key points for the 
 - The average years of service for the company is 7 years
 
 ### Images
-- ![Attrition Dashboard](https://github.com/bhusalrajan/hranalytics/assets/169077027/aab797f4-f256-4815-8f46-2b179f131f3c)
+
+![Attrition Dashboard](https://github.com/bhusalrajan/hranalytics/assets/169077027/88dc7785-33a7-4e44-b01a-2463aece619c)
